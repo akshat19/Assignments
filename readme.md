@@ -2,3 +2,6 @@ This repository contains all the assignments and quizzes assigned so far in the 
 
 Commit2:
 Added AOS Resources
+
+Commit3:
+Added program to check working of argc and argv
