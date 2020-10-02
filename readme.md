@@ -1,1 +1,1 @@
-This repository contains all the assignments and quizzes assigned so far
+This repository contains all the assignments and quizzes assigned so far in the college. Solutions will be uploaded once they have been graded.
