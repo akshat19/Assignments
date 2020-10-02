@@ -5,3 +5,6 @@ Added AOS Resources
 
 Commit3:
 Added program to check working of argc and argv
+
+Commit4:
+added program to calculate cgpa for ggsipu
